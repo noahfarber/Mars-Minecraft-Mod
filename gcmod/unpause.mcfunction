@@ -1,0 +1,2 @@
+gamerule gameLoopFunction clear
+gamerule gameLoopFunction timer:addTick
